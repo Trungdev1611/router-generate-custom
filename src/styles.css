@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+a {
+  padding: 10px;
+}
+
+.header,
+.footer {
+  background-color: cyan;
+}
